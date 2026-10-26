@@ -1,0 +1,19 @@
+=== Ceiling report — v1 (old generator) ===
+N = 10,000   seed = 42
+
+Bayes ceiling (all patients):               74.11%
+Bayes ceiling (non-borderline, n=9,327):  72.74%
+Borderline cases:                          673
+Visible groups:                            40
+
+Baselines:
+  Always ESI 3:                             36.03%
+  Per-condition best label:                 66.72%
+  Global best label (ESI 3):              36.03%
+
+ESI distribution:
+  ESI 1:   170  (1.7%)
+  ESI 2: 2,268  (22.7%)
+  ESI 3: 3,603  (36.0%)
+  ESI 4: 2,828  (28.3%)
+  ESI 5: 1,131  (11.3%)

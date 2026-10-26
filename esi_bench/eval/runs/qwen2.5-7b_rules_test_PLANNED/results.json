@@ -1,0 +1,227 @@
+{
+  "run_id": "qwen2.5-7b_rules_test_PLANNED",
+  "adapter": "qwen2.5:7b",
+  "condition": "rules",
+  "split": "test",
+  "prompt_version": "p1",
+  "dataset_hash": "292bc55a5dfabb366d859391b81f9e668bff2d9119418f4895ea99c477b7a9b1",
+  "timestamp": "2026-10-20T01:25:42.366741Z",
+  "metrics": {
+    "n_total": 208,
+    "accuracy": 0.7115384615384616,
+    "accuracy_excl_errors": 0.7115384615384616,
+    "ci_lower": 0.6490384615384616,
+    "ci_upper": 0.7692307692307693,
+    "kappa": 0.9044779298226931,
+    "undertriage_rate": 0.20673076923076922,
+    "overtriage_rate": 0.08173076923076923,
+    "critical_undertriage_count": 11,
+    "parse_error_count": 0,
+    "adapter_error_count": 0,
+    "missing_count": 0,
+    "out_of_range_count": 0,
+    "confusion_matrix": [
+      [
+        16,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        11,
+        66,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        5,
+        7,
+        29,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        28,
+        12
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        31
+      ]
+    ],
+    "per_variant_accuracy": {
+      "V21": {
+        "n": 8,
+        "n_correct": 6,
+        "accuracy": 0.75
+      },
+      "V06": {
+        "n": 8,
+        "n_correct": 3,
+        "accuracy": 0.375
+      },
+      "V04": {
+        "n": 8,
+        "n_correct": 2,
+        "accuracy": 0.25
+      },
+      "V01": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V07": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V25": {
+        "n": 8,
+        "n_correct": 2,
+        "accuracy": 0.25
+      },
+      "V17": {
+        "n": 8,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V09": {
+        "n": 8,
+        "n_correct": 7,
+        "accuracy": 0.875
+      },
+      "V22": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V10": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V19": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V03": {
+        "n": 8,
+        "n_correct": 2,
+        "accuracy": 0.25
+      },
+      "V14": {
+        "n": 8,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V15": {
+        "n": 8,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V26": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V23": {
+        "n": 8,
+        "n_correct": 7,
+        "accuracy": 0.875
+      },
+      "V20": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V24": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V11": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V13": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V12": {
+        "n": 8,
+        "n_correct": 4,
+        "accuracy": 0.5
+      },
+      "V18": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V08": {
+        "n": 8,
+        "n_correct": 3,
+        "accuracy": 0.375
+      },
+      "V05": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V16": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      },
+      "V02": {
+        "n": 8,
+        "n_correct": 8,
+        "accuracy": 1.0
+      }
+    },
+    "per_level_recall": {
+      "2": {
+        "n": 86,
+        "n_correct": 64,
+        "recall": 0.7441860465116279
+      },
+      "1": {
+        "n": 16,
+        "n_correct": 16,
+        "recall": 1.0
+      },
+      "4": {
+        "n": 40,
+        "n_correct": 28,
+        "recall": 0.7
+      },
+      "3": {
+        "n": 34,
+        "n_correct": 9,
+        "recall": 0.2647058823529412
+      },
+      "5": {
+        "n": 32,
+        "n_correct": 31,
+        "recall": 0.96875
+      }
+    },
+    "borderline_accuracy": 0.4166666666666667,
+    "non_borderline_accuracy": 0.75,
+    "miss_size_distribution": {
+      "2": 3,
+      "0": 148,
+      "1": 57
+    }
+  }
+}

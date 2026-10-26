@@ -1,0 +1,3 @@
+The following runs were dropped. Reason: time budget.
+llama3.1-8b_rules_test_PLANNED  est_min=66.0
+llama3.1-8b_plain_test_PLANNED  est_min=66.0

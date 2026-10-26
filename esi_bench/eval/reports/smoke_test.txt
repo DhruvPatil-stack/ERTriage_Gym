@@ -1,0 +1,10 @@
+ESI smoke test report
+---------------------
+n_items: 20 (discard first for warm-up)
+condition: rules
+
+model                | median_s |  mean_s | parse_err | prompt
+----------------------------------------------------------------------
+llama3.2:3b          |     9.87 |    9.94 |         0 | p1  
+qwen2.5:7b           |    14.42 |   14.88 |         0 | p1  
+llama3.1:8b          |    18.74 |   18.74 |         0 | p1  

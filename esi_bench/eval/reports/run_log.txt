@@ -1,0 +1,10 @@
+[2026-10-19T22:13:09.468595Z] start of batch: 4 planned runs
+[2026-10-19T22:13:09.470115Z] begin 1/4: llama3.2-3b_rules_test_PLANNED
+[2026-10-19T22:38:06.467861Z] end llama3.2-3b_rules_test_PLANNED code=0
+[2026-10-19T22:38:06.469090Z] begin 2/4: llama3.2-3b_plain_test_PLANNED
+[2026-10-20T00:30:46.428459Z] end llama3.2-3b_plain_test_PLANNED code=0
+[2026-10-20T00:30:46.430920Z] begin 3/4: qwen2.5-7b_rules_test_PLANNED
+[2026-10-20T01:25:42.379039Z] end qwen2.5-7b_rules_test_PLANNED code=0
+[2026-10-20T01:25:42.383166Z] begin 4/4: qwen2.5-7b_plain_test_PLANNED
+[2026-10-20T17:43:40.587356Z] end qwen2.5-7b_plain_test_PLANNED code=0
+[2026-10-20T17:43:40.592030Z] batch complete

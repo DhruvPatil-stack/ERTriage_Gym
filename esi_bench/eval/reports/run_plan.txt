@@ -1,0 +1,13 @@
+ESI run plan
+------------
+budget_hours: 3
+total_minutes_planned: 172.4
+
+run_id                                                       | adapter              | spl  | cond  | est_items | est_time_min | yes/no
+------------------------------------------------------------------------------------------------------------------------
+llama3.2-3b_rules_test_PLANNED                               | llama3.2:3b          | test | rules |       208 |         35.2 | yes
+llama3.2-3b_plain_test_PLANNED                               | llama3.2:3b          | test | plain |       208 |         35.2 | yes
+qwen2.5-7b_rules_test_PLANNED                                | qwen2.5:7b           | test | rules |       208 |         51.0 | yes
+qwen2.5-7b_plain_test_PLANNED                                | qwen2.5:7b           | test | plain |       208 |         51.0 | yes
+llama3.1-8b_rules_test_PLANNED                               | llama3.1:8b          | test | rules |       208 |         66.0 | no 
+llama3.1-8b_plain_test_PLANNED                               | llama3.1:8b          | test | plain |       208 |         66.0 | no 

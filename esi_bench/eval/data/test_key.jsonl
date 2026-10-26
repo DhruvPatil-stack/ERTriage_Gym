@@ -1,0 +1,208 @@
+{"id": "T001", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T002", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T003", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T004", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T005", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T006", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T007", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T008", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T009", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T010", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T011", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T012", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T013", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T014", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T015", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T016", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T017", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T018", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T019", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T020", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T021", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T022", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T023", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T024", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T025", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T026", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T027", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T028", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T029", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T030", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T031", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T032", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T033", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T034", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T035", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T036", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T037", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T038", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T039", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T040", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T041", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T042", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T043", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T044", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T045", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T046", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T047", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T048", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T049", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T050", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T051", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T052", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T053", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T054", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T055", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T056", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T057", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T058", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T059", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T060", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T061", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T062", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T063", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T064", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T065", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T066", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T067", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T068", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T069", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T070", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T071", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T072", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T073", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T074", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T075", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T076", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T077", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T078", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T079", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T080", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T081", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T082", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T083", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T084", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T085", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T086", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T087", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T088", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T089", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T090", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T091", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T092", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T093", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T094", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T095", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T096", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T097", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T098", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T099", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T100", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T101", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T102", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T103", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T104", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T105", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T106", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T107", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T108", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T109", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T110", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T111", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T112", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T113", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T114", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T115", "variant_id": "V24", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T116", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T117", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T118", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T119", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T120", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T121", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T122", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T123", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T124", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T125", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T126", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T127", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T128", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T129", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T130", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T131", "variant_id": "V09", "condition_name": "stroke_signs", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T132", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T133", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T134", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T135", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T136", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T137", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T138", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T139", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T140", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T141", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T142", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T143", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T144", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T145", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T146", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T147", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T148", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T149", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T150", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T151", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T152", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T153", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T154", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T155", "variant_id": "V15", "condition_name": "abdominal_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T156", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T157", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T158", "variant_id": "V18", "condition_name": "broken_arm", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T159", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T160", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T161", "variant_id": "V01", "condition_name": "cardiac_arrest", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T162", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T163", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T164", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T165", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T166", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T167", "variant_id": "V02", "condition_name": "severe_breathing", "esi_level": 1, "acceptable_levels": [1], "is_borderline": false, "intended_esi": 1}
+{"id": "T168", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T169", "variant_id": "V20", "condition_name": "ankle_sprain", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T170", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T171", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T172", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T173", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T174", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T175", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T176", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T177", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T178", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T179", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T180", "variant_id": "V08", "condition_name": "stroke_signs", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T181", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T182", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T183", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T184", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T185", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T186", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T187", "variant_id": "V03", "condition_name": "severe_breathing", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T188", "variant_id": "V22", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T189", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T190", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T191", "variant_id": "V21", "condition_name": "sore_throat", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T192", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T193", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T194", "variant_id": "V26", "condition_name": "skin_rash", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T195", "variant_id": "V04", "condition_name": "severe_breathing", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T196", "variant_id": "V17", "condition_name": "broken_arm", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T197", "variant_id": "V14", "condition_name": "abdominal_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}
+{"id": "T198", "variant_id": "V16", "condition_name": "broken_arm", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T199", "variant_id": "V23", "condition_name": "sore_throat", "esi_level": 5, "acceptable_levels": [5], "is_borderline": false, "intended_esi": 5}
+{"id": "T200", "variant_id": "V19", "condition_name": "ankle_sprain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T201", "variant_id": "V11", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T202", "variant_id": "V12", "condition_name": "infection_tachycardia", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T203", "variant_id": "V25", "condition_name": "skin_rash", "esi_level": 3, "acceptable_levels": [2, 3], "is_borderline": true, "intended_esi": 3}
+{"id": "T204", "variant_id": "V10", "condition_name": "infection_tachycardia", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T205", "variant_id": "V13", "condition_name": "abdominal_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T206", "variant_id": "V07", "condition_name": "chest_pain", "esi_level": 4, "acceptable_levels": [4], "is_borderline": false, "intended_esi": 4}
+{"id": "T207", "variant_id": "V05", "condition_name": "chest_pain", "esi_level": 2, "acceptable_levels": [2], "is_borderline": false, "intended_esi": 2}
+{"id": "T208", "variant_id": "V06", "condition_name": "chest_pain", "esi_level": 3, "acceptable_levels": [3], "is_borderline": false, "intended_esi": 3}

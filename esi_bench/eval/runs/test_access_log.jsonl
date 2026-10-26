@@ -1,0 +1,4 @@
+{"adapter": "llama3.2:3b", "condition": "rules", "prompt_version": "p1", "timestamp": "2026-10-19T22:13:09.476953Z", "run_id": "llama3.2-3b_rules_test_PLANNED"}
+{"adapter": "llama3.2:3b", "condition": "plain", "prompt_version": "p1", "timestamp": "2026-10-19T22:38:06.487719Z", "run_id": "llama3.2-3b_plain_test_PLANNED"}
+{"adapter": "qwen2.5:7b", "condition": "rules", "prompt_version": "p1", "timestamp": "2026-10-20T00:30:46.498908Z", "run_id": "qwen2.5-7b_rules_test_PLANNED"}
+{"adapter": "qwen2.5:7b", "condition": "plain", "prompt_version": "p1", "timestamp": "2026-10-20T01:25:42.426392Z", "run_id": "qwen2.5-7b_plain_test_PLANNED"}

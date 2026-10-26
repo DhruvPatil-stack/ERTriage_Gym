@@ -1,0 +1,10 @@
+ESI benchmark hardware report
+-----------------------------
+platform: Windows 11
+version: 10.0.26200
+machine: AMD64
+python: 3.14.3
+cpu_count: 12
+total_ram_gb: 31.69
+free_disk_c_gb: 545.41
+gpu: nvidia-smi not found

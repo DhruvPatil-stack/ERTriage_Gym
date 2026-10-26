@@ -1,0 +1,227 @@
+{
+  "run_id": "_test_review_always3",
+  "adapter": "always3",
+  "condition": "rules",
+  "split": "dev",
+  "prompt_version": "p1",
+  "dataset_hash": "test",
+  "timestamp": "test",
+  "metrics": {
+    "n_total": 78,
+    "accuracy": 0.23076923076923078,
+    "accuracy_excl_errors": 0.23076923076923078,
+    "ci_lower": 0.14102564102564102,
+    "ci_upper": 0.3333333333333333,
+    "kappa": 0.0,
+    "undertriage_rate": 0.4230769230769231,
+    "overtriage_rate": 0.34615384615384615,
+    "critical_undertriage_count": 33,
+    "parse_error_count": 0,
+    "adapter_error_count": 0,
+    "missing_count": 0,
+    "out_of_range_count": 0,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        27,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        18,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        15,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        12,
+        0,
+        0
+      ]
+    ],
+    "per_variant_accuracy": {
+      "V20": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V16": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V09": {
+        "n": 3,
+        "n_correct": 3,
+        "accuracy": 1.0
+      },
+      "V03": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V10": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V25": {
+        "n": 3,
+        "n_correct": 3,
+        "accuracy": 1.0
+      },
+      "V17": {
+        "n": 3,
+        "n_correct": 3,
+        "accuracy": 1.0
+      },
+      "V06": {
+        "n": 3,
+        "n_correct": 3,
+        "accuracy": 1.0
+      },
+      "V13": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V22": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V08": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V14": {
+        "n": 3,
+        "n_correct": 3,
+        "accuracy": 1.0
+      },
+      "V26": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V23": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V24": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V04": {
+        "n": 3,
+        "n_correct": 3,
+        "accuracy": 1.0
+      },
+      "V07": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V01": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V21": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V11": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V15": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V18": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V12": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V02": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V19": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      },
+      "V05": {
+        "n": 3,
+        "n_correct": 0,
+        "accuracy": 0.0
+      }
+    },
+    "per_level_recall": {
+      "5": {
+        "n": 12,
+        "n_correct": 0,
+        "recall": 0.0
+      },
+      "2": {
+        "n": 31,
+        "n_correct": 4,
+        "recall": 0.12903225806451613
+      },
+      "3": {
+        "n": 14,
+        "n_correct": 14,
+        "recall": 1.0
+      },
+      "4": {
+        "n": 15,
+        "n_correct": 0,
+        "recall": 0.0
+      },
+      "1": {
+        "n": 6,
+        "n_correct": 0,
+        "recall": 0.0
+      }
+    },
+    "borderline_accuracy": 1.0,
+    "non_borderline_accuracy": 0.16666666666666666,
+    "miss_size_distribution": {
+      "2": 18,
+      "1": 42,
+      "0": 18
+    }
+  }
+}

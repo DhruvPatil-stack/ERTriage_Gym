@@ -1,0 +1,90 @@
+{
+  "benchmark_version": "0.1",
+  "dataset_seed": 2026,
+  "splits": {
+    "dev": {
+      "total": 78,
+      "variants": {
+        "V20": 3,
+        "V16": 3,
+        "V09": 3,
+        "V03": 3,
+        "V10": 3,
+        "V25": 3,
+        "V17": 3,
+        "V06": 3,
+        "V13": 3,
+        "V22": 3,
+        "V08": 3,
+        "V14": 3,
+        "V26": 3,
+        "V23": 3,
+        "V24": 3,
+        "V04": 3,
+        "V07": 3,
+        "V01": 3,
+        "V21": 3,
+        "V11": 3,
+        "V15": 3,
+        "V18": 3,
+        "V12": 3,
+        "V02": 3,
+        "V19": 3,
+        "V05": 3
+      }
+    },
+    "test": {
+      "total": 208,
+      "variants": {
+        "V21": 8,
+        "V06": 8,
+        "V04": 8,
+        "V01": 8,
+        "V07": 8,
+        "V25": 8,
+        "V17": 8,
+        "V09": 8,
+        "V22": 8,
+        "V10": 8,
+        "V19": 8,
+        "V03": 8,
+        "V14": 8,
+        "V15": 8,
+        "V26": 8,
+        "V23": 8,
+        "V20": 8,
+        "V24": 8,
+        "V11": 8,
+        "V13": 8,
+        "V12": 8,
+        "V18": 8,
+        "V08": 8,
+        "V05": 8,
+        "V16": 8,
+        "V02": 8
+      }
+    }
+  },
+  "borderline_counts": {
+    "dev": 6,
+    "test": 24
+  },
+  "file_hashes": {
+    "dev_public.jsonl": "e2a930d46d41f568a37cd6c75a7d124786fe40aac201863bb6433e729072ab33",
+    "dev_key.jsonl": "dc508eac76f124b390c86717a58f4fa05a1f8da243c003161e21901de9d7cb21",
+    "test_public.jsonl": "292bc55a5dfabb366d859391b81f9e668bff2d9119418f4895ea99c477b7a9b1",
+    "test_key.jsonl": "d942cbc720f9aa83645da0fd8d3dc9ae0b578d31db719d1676a306c036b155dd"
+  },
+  "source_hashes": {
+    "config.py": "368a4845cca8a817f522ad730a116a92a00983afc7cde69acef96d0f06621950",
+    "variants.py": "1881cd7d3bf1b027439eed43247d22f834ce6300b0b5474226ab1b405d7b24df",
+    "labeler.py": "2c2b160c44a73976a8646df7420787334ff60277c87eb7826c0b0a8b6718b88a",
+    "generator.py": "4a36a44da62c91db3761a8bd001cb38f60cbdedca64d88f212ecfcaa22af9dfa"
+  },
+  "thresholds": {
+    "DANGER_HR": 100,
+    "DANGER_RR": 20,
+    "DANGER_SPO2": 92,
+    "SEVERE_PAIN_THRESHOLD": 7
+  }
+}

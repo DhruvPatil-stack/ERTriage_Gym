@@ -1,0 +1,48 @@
+C:\Users\dhruv\Desktop\Master_Projects\ER_Triage_Gym\esi_bench\eval\run_all.py:53: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  stamp = datetime.datetime.utcnow().isoformat() + "Z"
+[1/4] llama3.2-3b_rules_test_PLANNED
+Progress: 25/208 items done
+Progress: 50/208 items done
+Progress: 75/208 items done
+Progress: 100/208 items done
+Progress: 125/208 items done
+Progress: 150/208 items done
+Progress: 175/208 items done
+Progress: 200/208 items done
+Progress: 208/208 items done
+Run complete. Results in C:\Users\dhruv\Desktop\Master_Projects\ER_Triage_Gym\esi_bench\eval\runs\llama3.2-3b_rules_test_PLANNED
+[2/4] llama3.2-3b_plain_test_PLANNED
+WARN: adapter llama3.2:3b with prompt p1 already ran on test
+Progress: 25/208 items done
+Progress: 50/208 items done
+Progress: 75/208 items done
+Progress: 100/208 items done
+Progress: 125/208 items done
+Progress: 150/208 items done
+Progress: 175/208 items done
+Progress: 200/208 items done
+Progress: 208/208 items done
+Run complete. Results in C:\Users\dhruv\Desktop\Master_Projects\ER_Triage_Gym\esi_bench\eval\runs\llama3.2-3b_plain_test_PLANNED
+[3/4] qwen2.5-7b_rules_test_PLANNED
+Progress: 25/208 items done
+Progress: 50/208 items done
+Progress: 75/208 items done
+Progress: 100/208 items done
+Progress: 125/208 items done
+Progress: 150/208 items done
+Progress: 175/208 items done
+Progress: 200/208 items done
+Progress: 208/208 items done
+Run complete. Results in C:\Users\dhruv\Desktop\Master_Projects\ER_Triage_Gym\esi_bench\eval\runs\qwen2.5-7b_rules_test_PLANNED
+[4/4] qwen2.5-7b_plain_test_PLANNED
+WARN: adapter qwen2.5:7b with prompt p1 already ran on test
+Progress: 25/208 items done
+Progress: 50/208 items done
+Progress: 75/208 items done
+Progress: 100/208 items done
+Progress: 125/208 items done
+Progress: 150/208 items done
+Progress: 175/208 items done
+Progress: 200/208 items done
+Progress: 208/208 items done
+Run complete. Results in C:\Users\dhruv\Desktop\Master_Projects\ER_Triage_Gym\esi_bench\eval\runs\qwen2.5-7b_plain_test_PLANNED
